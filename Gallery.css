@@ -1,0 +1,42 @@
+Body{background-color: #E9F4FF; padding: 30px; justify-content: space-between}
+
+header{color: #0F84C6;
+    font-size: 70pt;
+    text-align: left; 
+    font-family: 'Indie flower'}
+
+#menu h1{width: auto; color: #92BCD3; 
+    font-size: 30pt; 
+    font-family: 'indie flower'; 
+    text-align: right}
+
+.imgMykonos1{width: 100%; padding-bottom: 10px; padding-top: 75px}
+
+.imgMykonos2{width: 100%; padding-bottom: 10px}
+
+.imgSantorini1{width: 100%; padding-bottom: 10px}
+
+.imgSantorini2{width: 100%; padding-bottom: 10px}
+
+.imgSantorini3{width: 100%; padding-bottom: 10px}
+
+.imgDubrovnik1{width: 100%; padding-bottom: 10px}
+
+.imgDubrovnik2{width: 100%; padding-bottom: 10px}
+
+.imgJervis1{width: 100%; padding-bottom: 10px}
+
+.imgJervis2{width: 100%; padding-bottom: 10px}
+
+.imgKiama{width: 100%; padding-bottom: 10px}
+
+.imgSH1{width: 100%; padding-bottom: 10px}
+
+.imgSH2{width: 100%; padding-bottom: 10px}
+
+a:active{text-decoration-line: none; color: #92BCD3}
+a:any-link{text-decoration-line: none; color: #92BCD3}
+a:checked{text-decoration-line: none; color: #92BCD3}
+a:default{text-decoration-line: none; color: #92BCD3}
+a:disabled{text-decoration-line: none; color: #92BCD3}
+a:hover{text-decoration-line: none; color: #0F84C6}

@@ -1,0 +1,80 @@
+Body{background-color: #E9F4FF; justify-content: space-between; padding: 30px}
+
+header{color: #0F84C6; 
+    font-size: 70pt; 
+    text-align: left; 
+    font-family: 'Indie flower'}
+
+#menu h1{width: auto; 
+    color: #92BCD3; 
+    font-size: 30pt; 
+    font-family: 'indie flower'; 
+    text-align: right}
+
+#santorini h1 {width: auto; 
+    color: #92BCD3; 
+    font-size: 40pt; 
+    font-family: 'indie flower'; 
+    text-align: left; 
+    padding-top: 75px; 
+    padding-bottom: 75px}
+
+.imgSantorini1{width: 49.5%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    color: #E9F4FF;
+    align-content: center;
+    padding-bottom: 10px}
+
+#santorini h2{width: auto; 
+    color: #92BCD3; 
+    font-size: 30pt; 
+    font-family: 'indie flower'; 
+    text-align: left; 
+    padding-top: 75px;
+    padding-left: 30px; 
+    padding-right: 30px}
+
+#santorini p{font-family: 'roboto'; 
+    text-align: left; 
+    font-size: 15pt; 
+    padding-top: 30px;
+    padding-bottom: 75px; 
+    padding-left: 30px; 
+    padding-right: 30px;
+    line-height: 2}
+
+.imgSantorini2{width: 47%; 
+    float: left; 
+    padding-bottom: 75px; 
+    padding-left: 30px}
+
+.imgSantorini3{width: 47%; 
+    float: right; 
+    padding-bottom: 75px; 
+    padding-right: 30px}
+
+#map h1 {font-size: 36pt; 
+    font-family: 'indie flower'; 
+    color:  #92BCD3; 
+    text-align: center; 
+    padding-bottom: 55px}
+
+#contact h1{font-size: 20pt; 
+    font-family: 'indie flower'; 
+    padding-bottom: 10px; 
+    color: #0F84C6}
+
+#contact p{font-size: 15pt; 
+    font-family: 'Roboto'; 
+    padding-bottom: 40px; 
+    line-height: 2}
+
+
+a:active{text-decoration-line: none; color: #92BCD3}
+a:any-link{text-decoration-line: none; color: #92BCD3}
+a:checked{text-decoration-line: none; color: #92BCD3}
+a:default{text-decoration-line: none; color: #92BCD3}
+a:disabled{text-decoration-line: none; color: #92BCD3}
+a:hover{text-decoration-line: none; color: #0F84C6}
